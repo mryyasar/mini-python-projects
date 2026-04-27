@@ -1,1 +1,1 @@
-# mini-python-projects
+# Python101-Projelerim
